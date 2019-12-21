@@ -43,3 +43,5 @@ ultah/hbd/ulangtahun
 >golongandarah
 >youtubepremod
 >jam
+@wikisearch
+@hmhoroscope
